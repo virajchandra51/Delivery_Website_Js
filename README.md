@@ -1,2 +1,2 @@
 # DelhiVery Website 🚚
-(/preview.png)
+![DelhiVery](/preview.png)
